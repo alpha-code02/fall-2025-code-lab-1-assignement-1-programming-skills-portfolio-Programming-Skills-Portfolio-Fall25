@@ -7,3 +7,4 @@ Write a program that tests if a value is even or odd. Follow the instructions ou
 * The entered number should be passed to a function that determines if the value is even or odd.
 * The function should return a message indicating whether the number is even or odd.
 * The message returned by the function should be printed from within the main function.
+print("HEllo")
