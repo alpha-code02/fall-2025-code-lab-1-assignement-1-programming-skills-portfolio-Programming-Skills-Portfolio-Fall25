@@ -6,3 +6,6 @@ def exercise_9():
         hello()
 
     main_func()
+
+
+exercise_9()

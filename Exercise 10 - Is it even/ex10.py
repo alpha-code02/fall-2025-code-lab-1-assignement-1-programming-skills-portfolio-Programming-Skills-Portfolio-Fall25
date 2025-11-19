@@ -12,3 +12,6 @@ def exercise_10():
     num = input("Enter a number to test even/odd: ").strip()
     result = is_even(num)
     print(result)
+
+
+exercise_10()

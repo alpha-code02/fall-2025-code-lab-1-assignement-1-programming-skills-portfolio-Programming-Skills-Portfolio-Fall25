@@ -23,3 +23,6 @@ def exercise_7():
     for i in range(100, 200, 5):
         print(i, end=" ")
     print("\n")
+
+
+exercise_7()

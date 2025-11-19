@@ -13,3 +13,6 @@ def exercise_8():
         print(f"{term} was found in the list.")
     else:
         print(f"{term} was NOT found in the list.")
+
+
+exercise_8()

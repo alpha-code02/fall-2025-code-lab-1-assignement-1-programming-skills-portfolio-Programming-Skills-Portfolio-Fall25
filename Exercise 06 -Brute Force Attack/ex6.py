@@ -11,3 +11,6 @@ def exercise_6():
             attempt += 1
             print(f"Incorrect password. You have {attempts - attempt} attempts left.")
     print("Access denied. Too many incorrect attempts.")
+
+
+exercise_6()

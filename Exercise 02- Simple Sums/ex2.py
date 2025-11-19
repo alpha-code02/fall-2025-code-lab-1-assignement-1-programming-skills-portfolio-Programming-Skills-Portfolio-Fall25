@@ -3,3 +3,6 @@ def exercise_2():
     b = 10
     total = a + b
     print("Exercise 2 - Sum of", a, "and", b, "is", total)
+
+
+exercise_2()

@@ -23,3 +23,6 @@ def exercise_5():
                 print("February has 29 days in a leap year.")
     else:
         print("Invalid month name. Please try again.")
+
+
+exercise_5()
